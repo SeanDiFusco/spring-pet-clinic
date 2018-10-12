@@ -1,0 +1,14 @@
+com\seandifusco\springpetclinic\services\VetService.class
+com\seandifusco\springpetclinic\model\Pet.class
+com\seandifusco\springpetclinic\model\Person.class
+com\seandifusco\springpetclinic\services\map\PetServiceMap.class
+com\seandifusco\springpetclinic\model\Vet.class
+com\seandifusco\springpetclinic\model\BaseEntity.class
+com\seandifusco\springpetclinic\services\PetService.class
+com\seandifusco\springpetclinic\services\CrudService.class
+com\seandifusco\springpetclinic\services\map\OwnerServiceMap.class
+com\seandifusco\springpetclinic\services\map\VetServiceMap.class
+com\seandifusco\springpetclinic\model\PetType.class
+com\seandifusco\springpetclinic\model\Owner.class
+com\seandifusco\springpetclinic\services\OwnerService.class
+com\seandifusco\springpetclinic\services\map\AbstractMapService.class
